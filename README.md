@@ -1,4 +1,3 @@
-
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
@@ -61,18 +60,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jeevanhs9/jeevanhs9/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jeevanhs9/jeevanhs9/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jeevanhs9/jeevanhs9/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<img src="https://raw.githubusercontent.com/jeevanhs9/jeevanhs9/output/snake.svg" alt="Snake animation" />
 
 ###
 
