@@ -1,120 +1,66 @@
-<!--
-  JEEVAN H S — GITHUB PROFILE
-  Creative editorial / cinematic portfolio
--->
+ <!-- JEEVAN H S | APPLE-INSPIRED GITHUB PROFILE -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:071A16,45:064E3B,100:111827&text=JEEVAN%20H%20S&fontSize=72&fontColor=F5F5F0&fontAlignY=40&desc=ENGINEERING%20IDEAS%20INTO%20REALITY&descSize=14&descAlignY=62&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0B0D12&height=280&section=header&text=JEEVAN%20H%20S&fontSize=75&fontColor=FFFFFF&fontAlignY=42&desc=Ideas%20are%20just%20the%20beginning.&descSize=18&descColor=9CA3AF&descAlignY=62&animation=fadeIn" />
 
 <br/>
 
-# AI & DATA SCIENCE ENGINEER
+### DESIGNING. BUILDING. THINKING DIFFERENTLY.
 
-*Curious mind. Creative builder. Constant experimenter.*
+<sub>AI & DATA SCIENCE ENGINEERING · INDIA 🇮🇳</sub>
 
-<br/>
+<br/><br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jeevanhs9)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeevan-h-s-b84a95339/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/jeevanx_07_/)
+<a href="https://github.com/jeevanhs9">
+<img src="https://img.shields.io/badge/EXPLORE_MY_WORLD-FFFFFF?style=for-the-badge&logo=github&logoColor=000000"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/jeevan-h-s-b84a95339/">
+<img src="https://img.shields.io/badge/LET'S_CONNECT-20242D?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
+</a>
 
-<br/>
+<br/><br/>
 
-`INDIA` &nbsp; / &nbsp; `AI & ML` &nbsp; / &nbsp; `SOFTWARE DEVELOPMENT` &nbsp; / &nbsp; `CREATIVE TECHNOLOGY`
+<img src="https://readme-typing-svg.demolab.com?font=SF+Mono&weight=400&size=16&duration=3000&pause=1200&color=9CA3AF&center=true&vCenter=true&width=600&lines=Curiosity+is+my+starting+point.;Technology+is+my+canvas.;Building+things+that+matter." />
 
 </div>
 
 ---
 
-## 01 — THE PERSON BEHIND THE CODE
+<div align="center">
 
-I'm **Jeevan H S**, an Artificial Intelligence and Data Science engineering student interested in building technology that goes beyond theory.
+## A LITTLE ABOUT ME.
 
-I enjoy exploring how intelligent systems work, experimenting with new tools, and turning ideas into practical applications.
+# I don't just want to use technology.  
+# I want to create with it.
 
-My approach is simple:
+</div>
 
-> Learn something interesting. Build something useful. Make it better.
+I'm **Jeevan H S**, an AI & Data Science engineering student fascinated by the intersection of intelligent systems, software engineering and creative problem-solving.
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Jeevan H S"
-        self.field = "AI & Data Science"
-        self.location = "India"
-        self.interests = [
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Computer Vision",
-            "Full-Stack Development",
-            "Creative Problem Solving"
-        ]
+I enjoy experimenting with ideas, learning how things work under the hood, and turning concepts into working projects.
 
-    def mindset(self):
-        return "Build. Experiment. Improve. Repeat."
-```
-
----
-
-## 02 — SELECTED WORK
-
-*Some ideas I've been exploring and bringing to life.*
-
-<table width="100%">
+<table>
 <tr>
 <td width="50%" valign="top">
 
-### 🌾 Krishi Mitra
+**CURRENTLY EXPLORING**
 
-**Technology for smarter agriculture.**
-
-An agricultural platform concept connecting farmers, buyers and logistics providers through digital marketplaces, shared transportation and AI-driven insights.
-
-`REACT` `PYTHON` `FLASK` `AI/ML`
-
-[EXPLORE PROJECT ↗](https://github.com/jeevanhs9/Lakshya2.0-051)
+- Artificial Intelligence
+- Machine Learning
+- Computer Vision
+- Full-Stack Development
 
 </td>
 <td width="50%" valign="top">
 
-### 👁️ YOLOv8 Object Detection
+**MY PHILOSOPHY**
 
-**Making computers see and understand.**
-
-An exploration of real-time object detection using computer vision and the YOLO ecosystem.
-
-`PYTHON` `YOLOv8` `COMPUTER VISION`
-
-[EXPLORE PROJECT ↗](https://github.com/jeevanhs9/YOLOv8-Object-Detection)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ⚙️ Titanic MLOps
-
-**Taking machine learning beyond notebooks.**
-
-A machine learning project exploring automation and CI/CD practices in an ML workflow.
-
-`PYTHON` `MACHINE LEARNING` `CI/CD`
-
-[EXPLORE PROJECT ↗](https://github.com/jeevanhs9/titanic-mlops-ci-cd)
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 Jarvis Voice Assistant
-
-**A little experiment in intelligent interaction.**
-
-A voice-assistant project exploring speech-based interaction and automation.
-
-`PYTHON` `VOICE ASSISTANT` `AUTOMATION`
-
-[EXPLORE PROJECT ↗](https://github.com/jeevanhs9/Jarvis-voice-assist)
+- Stay curious.
+- Think beyond tutorials.
+- Build real things.
+- Improve every iteration.
 
 </td>
 </tr>
@@ -122,80 +68,145 @@ A voice-assistant project exploring speech-based interaction and automation.
 
 ---
 
-## 03 — MY TECHNICAL WORLD
+<div align="center">
+
+<sub>01 — SELECTED CREATIONS</sub>
+
+# Things I've brought to life.
+
+*Every project begins with a question. These are a few of my experiments.*
+
+</div>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/jeevanhs9/Lakshya2.0-051">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=110&text=KRISHI%20MITRA&fontSize=27&fontColor=FFFFFF&color=0:123C32,100:071A16" width="100%"/>
+</a>
+
+### 🌱 Technology for agriculture.
+
+A digital agriculture platform concept connecting farmers, buyers and logistics through smarter marketplaces, shared transportation and AI-powered insights.
+
+`REACT` `FLASK` `PYTHON` `AI/ML`
+
+**[DISCOVER PROJECT ↗](https://github.com/jeevanhs9/Lakshya2.0-051)**
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/jeevanhs9/YOLOv8-Object-Detection">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=110&text=VISION%20AI&fontSize=27&fontColor=FFFFFF&color=0:172554,100:080D1A" width="100%"/>
+</a>
+
+### 👁️ Giving machines vision.
+
+An exploration of object detection and computer vision using the YOLO ecosystem.
+
+`PYTHON` `YOLOv8` `COMPUTER VISION`
+
+**[DISCOVER PROJECT ↗](https://github.com/jeevanhs9/YOLOv8-Object-Detection)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/jeevanhs9/titanic-mlops-ci-cd">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=110&text=MLOPS%20LAB&fontSize=27&fontColor=FFFFFF&color=0:3B1D5A,100:120B20" width="100%"/>
+</a>
+
+### ⚙️ From models to workflows.
+
+Exploring machine learning workflows, automation and continuous integration and delivery.
+
+`PYTHON` `ML` `CI/CD`
+
+**[DISCOVER PROJECT ↗](https://github.com/jeevanhs9/titanic-mlops-ci-cd)**
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/jeevanhs9/Jarvis-voice-assist">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=110&text=PROJECT%20JARVIS&fontSize=27&fontColor=FFFFFF&color=0:164E63,100:071B26" width="100%"/>
+</a>
+
+### 🤖 A different way to interact.
+
+A voice assistant experiment exploring speech-based interaction and automation.
+
+`PYTHON` `VOICE` `AUTOMATION`
+
+**[DISCOVER PROJECT ↗](https://github.com/jeevanhs9/Jarvis-voice-assist)**
+
+</td>
+</tr>
+</table>
+
+---
 
 <div align="center">
 
-**LANGUAGES**
+<sub>02 — THE TOOLKIT</sub>
 
-<img src="https://skillicons.dev/icons?i=python,c,js,html,css&theme=dark" />
+# My creative instruments.
 
-<br/><br/>
+*Tools are only as powerful as the ideas behind them.*
 
-**DEVELOPMENT**
+<br/>
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,git,github,arduino&theme=dark" />
-
-<br/><br/>
-
-**TOOLS & ENVIRONMENTS**
-
-<img src="https://skillicons.dev/icons?i=jupyter,blender,vscode,pycharm&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,c,js,html,css,react,nodejs,git,github,arduino,jupyter,blender,vscode,pycharm&theme=dark" />
 
 </div>
 
 ---
 
-## 04 — CURRENT DIRECTION
-
-I'm particularly interested in exploring:
-
-- **Artificial Intelligence** — building useful intelligent applications.
-- **Machine Learning** — understanding models and putting them into practice.
-- **Computer Vision** — creating systems that interpret visual information.
-- **Full-Stack Engineering** — developing complete applications from frontend to backend.
-- **Product Building** — turning real-world problems into useful software.
-
-I don't want to just learn technologies. I want to understand what I can create with them.
-
----
-
-## 05 — THE JOURNEY SO FAR
-
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jeevanhs9&show_icons=true&hide_border=true&bg_color=0D1117&title_color=36D399&icon_color=36D399&text_color=E5E7EB" />
+<sub>03 — THE ACTIVITY</sub>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevanhs9&layout=compact&hide_border=true&bg_color=0D1117&title_color=36D399&text_color=E5E7EB" />
+# Progress, not perfection.
+
+<br/>
+
+<img width="90%" src="https://github-readme-stats.vercel.app/api?username=jeevanhs9&show_icons=true&hide_border=true&bg_color=0B0D12&title_color=FFFFFF&icon_color=60A5FA&text_color=9CA3AF&rank_icon=github"/>
+
+<br/><br/>
+
+<img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevanhs9&layout=compact&hide_border=true&bg_color=0B0D12&title_color=FFFFFF&text_color=9CA3AF"/>
 
 </div>
 
 ---
 
-## 06 — BEYOND THE TERMINAL
-
 <div align="center">
 
-*Technology is more interesting when ideas become reality.*
+<sub>04 — THE NEXT CHAPTER</sub>
+
+# Always in the making.
+
+I'm interested in building intelligent applications, exploring emerging technologies and creating products that solve meaningful problems.
+
+**The best project is probably the one I haven't built yet.**
 
 <br/>
 
 <a href="mailto:jeevan20042002@gmail.com">
-<img src="https://img.shields.io/badge/LET'S_TALK-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/EMAIL_ME-FFFFFF?style=for-the-badge&logo=gmail&logoColor=000000"/>
 </a>
 <a href="https://www.linkedin.com/in/jeevan-h-s-b84a95339/">
-<img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LINKEDIN-20242D?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
 </a>
-<a href="https://github.com/jeevanhs9">
-<img src="https://img.shields.io/badge/EXPLORE_MY_WORK-FFFFFF?style=for-the-badge&logo=github&logoColor=black" />
+<a href="https://www.instagram.com/jeevanx_07_/">
+<img src="https://img.shields.io/badge/INSTAGRAM-20242D?style=for-the-badge&logo=instagram&logoColor=FFFFFF"/>
 </a>
 
 <br/><br/>
 
-**THANK YOU FOR VISITING.**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0B0D12&height=100&section=footer&text=THINK.%20CREATE.%20REPEAT.&fontSize=22&fontColor=9CA3AF&fontAlignY=55"/>
 
-*Here's to building things that matter.*
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:111827,55:064E3B,100:071A16" />
+<sub>CRAFTED WITH CURIOSITY BY JEEVAN H S · © 2026</sub>
 
 </div>
